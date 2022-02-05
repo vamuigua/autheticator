@@ -1,6 +1,6 @@
 # Authenticator 🔒
 
-This is a demo application implementing Laravel's authentication features:
+A Laravel application that implementing Laravel's authentication features:
 
 -   Session-based [authentication](https://laravel.com/docs/8.x/authentication) - used in the Browser
 -   Token-based authentication using [Sanctum](https://laravel.com/docs/8.x/sanctum) - used in APIs
